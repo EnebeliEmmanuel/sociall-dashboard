@@ -1,0 +1,14 @@
+{
+  "name": "social-dashboard",
+  "version": "1.0.0",
+  "description": "responsive-social-dashboard",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "koko codes",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
